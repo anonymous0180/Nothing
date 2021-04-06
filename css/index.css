@@ -91,11 +91,11 @@ header img {
   border: 1px solid rgba(38, 38, 38, 0.4);
   border-radius: .2rem;
   -webkit-box-shadow: 20px 20px 10px #262626;
-          box-shadow: 20px 20px 10px #262626;
+          box-shadow: 20px 20px 10px #e67a7a;
           transition: 0.5s;
 }
 #hero-section #main-card:hover{
-  box-shadow: 15px 15px 10px #262626;
+  box-shadow: 15px 15px 10px #3a3535;
   transition-timing-function: ease-out;
 }
 
